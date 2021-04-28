@@ -56,7 +56,7 @@ Head over to the **Staking** page. Pick a validator from the list of delegates t
 
 ### Withdrawing rewards
 
-After some time has passed, you should be see some rewards accruing due to the transaction on the network. Click the **Withdraw** button on your validator's page to withdraw rewards for your delegation with that validator.
+After some time has passed, you should see some rewards accruing due to the transaction on the network. Click the **Withdraw** button on your validator's page to withdraw rewards for your delegation with that validator.
 
 ::: warning IMPORTANT
 Make sure to keep some funds in your account when delegating because you'll need funds to withdraw rewards!
